@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    int n = 9;
+    int n = 7;
 
-  bool isPrime = true;
+  bool isPrime = true;    
 
    
 
