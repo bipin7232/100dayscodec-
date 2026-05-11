@@ -17,6 +17,6 @@ int Dectobinary(int dec){
 }
 
 int main(){
-cout<<Dectobinary(56);
+cout<<Dectobinary(12);
 
 }

@@ -19,14 +19,10 @@ int bianrytoDec(int num){
 
 int main(){
 
-    int n = 101;
+    int n = 12;
 
   
 
         cout<<bianrytoDec(n);
-
-    
-
-    
 
 }
